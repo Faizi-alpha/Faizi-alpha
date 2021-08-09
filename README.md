@@ -15,19 +15,3 @@
 
 
 
-
-<!-- visitor count -->
-<div align="center"><b>Profile visit counts<b><br><img src="https://profile-counter.glitch.me/kiiirtiiii/count.svg"></div>
-
-<!-- Social media -->
-<div align="center"> 
-  <h2>Want to connect with me?</h2>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kiiirtiiii/" target="__blank"><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/social-icons/001-linkedin.png" alt="LinkedIn"></a></span> 
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.stopstalk.com/user/profile/sharmakirti" target="__blank"><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/social-icons/003-ban.png" alt="StopStalk"></a>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <a href="mailto:kirtivats1409@gmail.com" target="__blank"><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/social-icons/002-gmail.png" alt="Mail"></a>
-</div>
