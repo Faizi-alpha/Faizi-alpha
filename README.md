@@ -14,7 +14,8 @@
 </p> 
 
 
-
+                                              |GITHUB STATS|
+                                                  |:---:|
                               |![Github Page Visit Count](https://komarev.com/ghpvc/?username=Faizi-alpha)||
 
 
