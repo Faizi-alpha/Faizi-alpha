@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/falpha" target="_blank"><img alt="buse-yal%C3%A7%C4%B1n-b41257178" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;
 <a href="https://www.instagram.com/_outcryptolist/" target="blank"><img alt="coderrwoman" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:40px; width:40px" /></a>&nbsp; 
 &nbsp; 
-<a href="https://www.hackerrank.com/CodeWick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/buse5" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/CodeWick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/buse5" height="40px" width="40px" /></a>
 </p> 
 
 
