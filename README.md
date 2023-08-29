@@ -15,15 +15,15 @@
 
 
 
-                                      <h3>Connect with me:</h3>
-                                      
-                                      <p>
-                                      <a href="https://www.linkedin.com/in/falpha" target="_blank"><img alt="buse-yal%C3%A7%C4%B1n-b41257178" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;
-                                      <a href="https://www.instagram.com/_outcryptolist/" target="blank"><img alt="coderrwoman" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:40px; width:40px" /></a>&nbsp; 
-                                      &nbsp; 
-                                      <a href="https://www.hackerrank.com/CodeWick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="height:40px; width:40px"" /></a>&nbsp;
-                                      &nbsp;
-                                      </p> 
+<h3>Connect with me:</h3>
+
+<p>
+<a href="https://www.linkedin.com/in/falpha" target="_blank"><img alt="buse-yal%C3%A7%C4%B1n-b41257178" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;
+<a href="https://www.instagram.com/_outcryptolist/" target="blank"><img alt="coderrwoman" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:40px; width:40px" /></a>&nbsp; 
+&nbsp; 
+<a href="https://www.hackerrank.com/CodeWick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="height:40px; width:40px"" /></a>&nbsp;
+&nbsp;
+</p> 
 
 
 
