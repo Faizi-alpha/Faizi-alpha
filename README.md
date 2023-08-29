@@ -26,7 +26,7 @@
 </p> 
 
 
-<div id="Stats">
+<div style="text-align: center; margin-left: auto; margin-right: auto">
 
    GITHUB STATS|MOST USED LANGUAGES|
   |:---:|:---:|
@@ -35,7 +35,4 @@
   
 </div>  
   
-#container{
-text-align: center;
-}
 
