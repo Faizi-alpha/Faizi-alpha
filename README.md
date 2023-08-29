@@ -15,7 +15,7 @@
 
 
 
-<h3>Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p>
 <a href="https://www.linkedin.com/in/falpha" target="_blank"><img alt="buse-yal%C3%A7%C4%B1n-b41257178" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;
