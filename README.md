@@ -15,6 +15,6 @@
 
 
 
-                              |![Github Page Visit Count](https://komarev.com/ghpvc/?username=Faizi-alpha)|
+                              |![Github Page Visit Count](https://komarev.com/ghpvc/?username=Faizi-alpha)||
 
 
